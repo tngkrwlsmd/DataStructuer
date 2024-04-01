@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DataStructure\\DataManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF35751A-57B9-412A-A7ED-6E1916284619}|DataManagementSystem.vcxproj|C:\\DataStructure\\DataManagementSystem\\DataManagementSystem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF35751A-57B9-412A-A7ED-6E1916284619}|DataManagementSystem.vcxproj|solutionrelative:DataManagementSystem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManagementSystem.c",
+              "DocumentMoniker": "C:\\DataStructure\\DataManagementSystem\\DataManagementSystem.c",
+              "RelativeDocumentMoniker": "DataManagementSystem.c",
+              "ToolTip": "C:\\DataStructure\\DataManagementSystem\\DataManagementSystem.c",
+              "RelativeToolTip": "DataManagementSystem.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T08:53:30.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

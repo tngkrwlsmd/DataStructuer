@@ -1,0 +1,1 @@
+C:\DataStructure\sudoku_9x9\x64\Debug\sudoku_9x9.exe
